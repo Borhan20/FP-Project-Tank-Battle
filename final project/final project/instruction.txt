@@ -1,0 +1,7 @@
+Enemies have arrived here at the kingdom Hogwarts !!
+And you are the only saviour , the one man army !
+Help to protect the castle or enemies will capture it immediately.
+
+Controls: 
+    To throw bullets   : click left mouse button or press spacebar
+    To move the turret : use arrow key or the mouse 
